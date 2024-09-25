@@ -78,7 +78,7 @@ nmap -A <target-ip>
 ```
 
 ### PoC
-![Aggressive Scan](https://github.com/jeymo092/Network-Scanning/blob/b8c576520a3d0621aad9c7a0a5429f372589b4ca/SCAN%205.png)
+![Aggressive Scan](https://github.com/jeymo092/Network-Scanning/blob/b8c576520a3d0621aad9c7a0a5429f372589b4ca/scan%206.png)
 
 ---
 
@@ -93,7 +93,7 @@ nmap -sU <target-ip>
 ```
 
 ### PoC
-![UDP Scan](https://github.com/jeymo092/Network-Scanning/blob/b8c576520a3d0621aad9c7a0a5429f372589b4ca/scan%206.png)
+![UDP Scan](https://github.com/jeymo092/Network-Scanning/blob/b8c576520a3d0621aad9c7a0a5429f372589b4ca/SCAN%205.png)
 
 ---
 
