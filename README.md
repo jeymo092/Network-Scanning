@@ -1,4 +1,4 @@
-# Network Security Portfolio - Nmap Scans
+# Network Security - Nmap Scans
 
 This Project demonstrates my use of Nmap for various network security scans, from basic to advanced. Each scan includes a proof of concept (PoC) using screenshots of my real-world scans.
 ---
