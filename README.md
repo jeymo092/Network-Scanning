@@ -1,8 +1,9 @@
-# ![Network Security Scan Banner](https://github.com/jeymo092/Network-Scanning/blob/b8c576520a3d0621aad9c7a0a5429f372589b4ca/NETWORK%20SCANNING.png)
-
 # Network Security Portfolio - Nmap Scans
 
 This portfolio demonstrates my use of Nmap for various network security scans, from basic to advanced. Each scan includes a proof of concept (PoC) using screenshots of my real-world scans.
+---
+# ![Network Security Scan Banner](https://github.com/jeymo092/Network-Scanning/blob/b8c576520a3d0621aad9c7a0a5429f372589b4ca/NETWORK%20SCANNING.png)
+
 
 ---
 
