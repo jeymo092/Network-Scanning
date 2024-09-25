@@ -138,6 +138,6 @@ nmap -p- -sV -O --script vuln <target-ip>
 ```
 
 ### PoC
-![Comprehensive Scan](https://your_image_host.com/comprehensive_scan.png)
+![Comprehensive Scan](https://github.com/jeymo092/Network-Scanning/blob/main/scan%209.png)
 
 ---
