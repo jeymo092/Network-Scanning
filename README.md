@@ -1,6 +1,5 @@
 ### Updated Markdown:
-```markdown
-# ![Network Security Scan Banner](./images/NETWORK SCANNING.png)
+# ![Network Security Scan Banner](.NETWORK SCANNING.png)
 
 # Network Security Portfolio - Nmap Scans
 
